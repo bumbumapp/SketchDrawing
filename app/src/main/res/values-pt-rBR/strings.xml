@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PixaPencil</string>
+    <string name="app_name">Sketch drawing</string>
     <string name="generic_ok">OK</string>
     <string name="generic_no_thanks">Não, obrigado</string>
     <string name="generic_warning">Aviso</string>
@@ -190,7 +190,7 @@
     <string name="dialog_project_details_title">Detalhes</string>
     <string name="dialog_rename_title">Renomear</string>
     <string name="dialog_welcome_title">Boas-vindas</string>
-    <string name="dialog_welcome_text">Boas-vindas ao PixaPencil! Você gostaria de iniciar um tutorial interativo\?</string>
+    <string name="dialog_welcome_text">Você gostaria de iniciar um tutorial interativo\?</string>
     <string name="dialog_large_canvas_warning_text">Você vai criar uma tela de desenho grande, saiba que talvez o seu aparelho não suporte bitmaps com esse tamanho.</string>
     <string name="snackbar_successfully_imported_lospec_palette">Importamos %1$s</string>
     <string name="dialog_large_canvas_warning_positive_button_text">Entendido, criando o projeto</string>

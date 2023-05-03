@@ -15,7 +15,7 @@ fun ToolsFragment.getSelectedStateListPairData(): Pair<ColorStateList, ColorStat
 }
 
 fun ToolsFragment.getUnselectedStateListPairData(): Pair<ColorStateList, ColorStateList?> {
-    return Pair(AppCompatResources.getColorStateList(context!!, android.R.color.transparent), ContextCompat.getColorStateList(requireContext(), android.R.color.holo_blue_dark))
+    return Pair(AppCompatResources.getColorStateList(context!!, android.R.color.transparent), ContextCompat.getColorStateList(requireContext(), R.color.defaultToolbarItemColor))
 }
 
 fun ToolsFragment.setColorFor(it: View) {

@@ -2,7 +2,7 @@
 <resources
     xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="MissingTranslation">
-    <string name="app_name">PixaPencil</string>
+    <string name="app_name">Sketch drawing</string>
     <string name="fragmentRGBColorPicker_defaultRGBValue" translatable="false">0</string>
     <string name="defaultColorPalette">Default color palette</string>
     <string name="generic_ok">OK</string>
@@ -231,7 +231,7 @@
     <string name="dialog_project_details_title">Details</string>
     <string name="dialog_rename_title">Rename</string>
     <string name="dialog_welcome_title">Welcome</string>
-    <string name="dialog_welcome_text">Welcome to PixaPencil! Would you like to start an interactive tutorial?</string>
+    <string name="dialog_welcome_text">Would you like to start an interactive tutorial?</string>
     <string name="dialog_large_canvas_warning_text">You are about to create a large canvas, keep in mind that your phone might not be able to support bitmaps of these sizes.</string>
     <string name="dialog_large_canvas_warning_positive_button_text">I understand, create the project</string>
     <string name="dialog_delete_all_projects">Are you sure you want to delete all of your projects? This cannot be undone.</string>

@@ -33,7 +33,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:fontFamily="@font/manrope_light"
+        android:fontFamily="@font/manrope_ligth"
         android:text="X.X.X"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"

@@ -94,7 +94,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
                 android:layout_height="match_parent"
                 android:text="@string/fragmentFilters_color_filter"
                 android:layout_marginStart="16dp"
-                android:textColor="@android:color/holo_blue_dark"
+                android:textColor="#4CAF50"
                 app:icon="@drawable/ic_baseline_color_lens_24"
                 style="@style/fragmentFilters_button_portrait_style"/>
 
@@ -103,7 +103,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:text="@string/fragmentFilters_lighten"
-                android:textColor="@android:color/holo_blue_dark"
+                android:textColor="#4CAF50"
                 app:icon="@drawable/ic_baseline_wb_sunny_24"
                 style="@style/fragmentFilters_button_portrait_style"/>
 
@@ -112,7 +112,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:text="@string/fragmentFilters_darken"
-                android:textColor="@android:color/holo_blue_dark"
+                android:textColor="#4CAF50"
                 app:icon="@drawable/darken_icon"
                 style="@style/fragmentFilters_button_portrait_style"/>
 
@@ -122,7 +122,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:text="@string/fragmentFilters_invert"
-                android:textColor="@android:color/holo_blue_dark"
+                android:textColor="#4CAF50"
                 app:icon="@drawable/ic_baseline_invert_colors_24"
                 style="@style/fragmentFilters_button_portrait_style"/>
 
@@ -131,7 +131,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:text="@string/fragmentFilters_grayscale"
-                android:textColor="@android:color/holo_blue_dark"
+                android:textColor="#4CAF50"
                 android:layout_marginEnd="16dp"
                 style="@style/fragmentFilters_button_portrait_style"/>
         </LinearLayout>

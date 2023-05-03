@@ -135,7 +135,7 @@ class CanvasActivity :
     }
 
     override fun onBackPressed() {
-        extendedOnBackPressed()
+        extendedOnBackPressed(this)
     }
 
     override fun onToolTapped(toolName: String) {

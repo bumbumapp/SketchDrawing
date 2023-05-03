@@ -8,7 +8,7 @@
     android:background="@color/fragment_background_color_daynight">
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/activityMain_recentCreationsRecyclerView"
-        android:layout_width="0dp"
+        android:layout_width ="0dp"
         android:layout_height="0dp"
         android:paddingTop="16dp"
         android:paddingEnd="8dp"
@@ -24,7 +24,8 @@
         android:id="@+id/activityMain_bottomNavigationView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:itemIconTint="@color/black_color_daynight"
+        app:itemIconTint="@color/green_dark"
+        app:itemTextColor="@color/defaultToolbarItemColor"
         app:layout_constraintBottom_toBottomOf="@+id/activityMain_recentCreationsRecyclerView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -43,7 +44,7 @@
             style="@style/default_large_fab_style_activity_main"
             app:rippleColor="#ccadff"
             android:layout_gravity="bottom|end"
-            android:backgroundTint="@color/activityMainFAB_backgroundColor"
+            android:backgroundTint="#FFC107"
             android:contentDescription="@string/activityMain_newProjectButton_contentDescription" />
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
 

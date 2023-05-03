@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PixaPencil</string>
+    <string name="app_name">Sketch drawing</string>
     <string name="generic_ok">לְאַשֵׁר</string>
     <string name="generic_cancel">לְבַטֵל</string>
     <string name="generic_no_thanks">לא תודה</string>
@@ -238,7 +238,7 @@
     <string name="dialog_project_details_title">פרטים</string>
     <string name="dialog_rename_title">תשנה את השם</string>
     <string name="dialog_welcome_title">ברוך הבא</string>
-    <string name="dialog_welcome_text">ברוך הבא ל-PixaPencil! האם תרצה להתחיל הדרכה אינטראקטיבית?</string>
+    <string name="dialog_welcome_text"> האם תרצה להתחיל הדרכה אינטראקטיבית?</string>
     <string name="dialog_large_canvas_warning_text">אתה יוצר קנבס גדול, אתה עלול להיתקל בבעיות ביצועים מכיוון שטלפונים מסוימים אינם יכולים לתמוך ביקנבס בגודל זה.</string>
     <string name="dialog_large_canvas_warning_positive_button_text">אני מבין, תיצור את הפרויקט</string>
 

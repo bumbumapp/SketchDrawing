@@ -88,6 +88,8 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:tabStripEnabled="false"
+        android:background="#221f35"
+        app:tabSelectedTextColor="@color/teal_700"
         app:layout_constraintBottom_toTopOf="@+id/activityCanvas_viewPager2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">

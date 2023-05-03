@@ -30,6 +30,7 @@
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/importLospecPaletteAlert_palette_url_identifier_textInputEditText"
             android:layout_width="match_parent"
+            android:textColor="#03A9F4"
             android:layout_height="wrap_content" />
     </com.google.android.material.textfield.TextInputLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

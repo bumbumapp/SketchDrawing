@@ -55,6 +55,7 @@
             android:layout_gravity="bottom|end"
             android:layout_margin="16dp"
             android:text="@string/fragmentNewColorPalette_done"
+            android:textColor="@color/defaultToolbarItemColor"
             app:layout_dodgeInsetEdges="bottom"/>
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

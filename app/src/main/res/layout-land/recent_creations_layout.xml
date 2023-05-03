@@ -9,6 +9,7 @@
         android:id="@+id/recentCreationsLayout_materialCardView"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
+        android:backgroundTint="#221f35"
         style="@style/recent_creations_layout_card_view_style">
 
         <androidx.constraintlayout.widget.ConstraintLayout

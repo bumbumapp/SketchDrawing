@@ -74,7 +74,7 @@ fun CanvasActivity.onCreate() {
         }
 
         if (viewModel.unsavedChangesDialogShown) {
-            showUnsavedChangesDialog()
+            showUnsavedChangesDialog(this)
         }
     }
 

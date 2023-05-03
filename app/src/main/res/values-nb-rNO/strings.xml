@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PixaPencil</string>
+    <string name="app_name">Sketch drawing</string>
     <string name="generic_saved">Lagret</string>
     <string name="generic_error_while_saving">Kunne ikke lagre %1$s</string>
     <string name="recentCreationsLayout_favoriteButton_content_description">Favoritt</string>
@@ -90,7 +90,7 @@
     <string name="dialog_delete_pixel_art_project_title">Slett %1$s\?</string>
     <string name="dialog_welcome_title">Velkommen</string>
     <string name="dialog_delete_pixel_art_project_text">Slett %1$s\? Dette kan ikke angres.</string>
-    <string name="dialog_welcome_text">Velkommen til PixaPencil. Vil du starte interaktiv veiledning\?</string>
+    <string name="dialog_welcome_text">Vil du starte interaktiv veiledning\?</string>
     <string name="snackbar_view_exception_info_button_text">Vis</string>
     <string name="snackbar_cannot_delete_primary_color_palette_text">Kan ikke slette forvalgt fargepalett</string>
     <string name="exception_invalid_project_name">Navnet kan ikke være tomt</string>

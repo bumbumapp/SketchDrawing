@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PixaPencil</string>
+    <string name="app_name">Sketch drawing</string>
     <string name="generic_ok">U redu</string>
     <string name="generic_cancel">Odustani</string>
     <string name="generic_no_thanks">Ne, hvala</string>
@@ -193,7 +193,7 @@
     <string name="dialog_project_details_title">Detalji</string>
     <string name="dialog_rename_title">Preimenuj</string>
     <string name="dialog_welcome_title">Pozdrav</string>
-    <string name="dialog_welcome_text">Pozdrav u PixaPencilu! Želiš li pokrenuti interaktivnu vježbu\?</string>
+    <string name="dialog_welcome_text">Želiš li pokrenuti interaktivnu vježbu\?</string>
     <string name="dialog_large_canvas_warning_text">Stvorit ćeš veliko platno. Imaj na umu da tvoj mobitel možda nije u stanju podržati bitmape ovih veličina.</string>
     <string name="snackbar_view_exception_info_button_text">Prikaz</string>
     <string name="snackbar_cannot_delete_primary_color_palette_text">Nije moguće izbrisati standardnu paletu boja</string>
